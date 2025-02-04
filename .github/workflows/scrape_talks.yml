@@ -20,8 +20,9 @@ jobs:
 
     - name: Install dependencies
       run: |
-        pip install jupyter pandas requests beautifulsoup4 geopy  # Add other dependencies as needed
-        pip install getorg --upgrade
+        pip install --upgrade pip
+        pip install jupyter pandas requests beautifulsoup4 geopy getorg
+        python -m ipykernel install --user --name=python3
 
     - name: Run Jupyter Notebook
       run: |
