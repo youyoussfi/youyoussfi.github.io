@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D at CREST, ENSAE
-* M.S. at ENSAE, 2019
+* M.S. at ENSAI, 2019
 * B.S. in GitHub, GitHub University, 2012
 
 Work experience
