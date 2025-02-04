@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D at CREST, ENSAE
-* M.S. in Jekyll, GitHub University, 2014
+* M.S. at ENSAE, 2019
 * B.S. in GitHub, GitHub University, 2012
 
 Work experience
