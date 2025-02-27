@@ -28,4 +28,4 @@ Work experience
 * **2019-2023: PhD candidate in statistics**
   * *CREST, ENSAE & [Paris Cardiovascular Research Center](https://parcc.inserm.fr/)*
   * Exploring risk factors and prediction models for sudden cardiac death with machine learning.
-  * Large-scale data processing of the [French National Healthcare Data System](https://www.health-data-hub.fr/snds).
+  * Large-scale data processing of the [French National Healthcare Data System](https://www.health-data-hub.fr/snds) (SNDS).
