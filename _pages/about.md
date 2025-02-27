@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Younès Youssfi, PhD"
 author_profile: true
 redirect_from: 
   - /about/
@@ -15,12 +15,12 @@ My research focuses on developing statistical and machine learning methods for a
 
 Work experience
 ======
-* Since May 2023: **Data Scientist**
+* Since May 2023: Data Scientist
   * *Resilience Care, Translational Research Team*
   * Development of machine learning models in oncology and immunology.
   * Real-world evidence studies using patient-reported outcomes.
 
-* 2019-2023: **PhD Candidate in Statistics**  
+* 2019-2023: PhD Candidate in Statistics 
   * *CREST, ENSAE & Paris Cardiovascular Research Center (INSERM)*
   * Development of statistical methods for sudden cardiac death prediction.
   * Large-scale data processing of the French National Healthcare Data System (350,000 patients, 300M healthcare acts).
@@ -28,18 +28,18 @@ Work experience
 
 Education
 ======
-* Ph.D in Statistics, CREST, Institut Polytechnique de Paris, Sep. 2019 - May. 2023
-* M.Sc Data Science, National School for Statistics and Information Analysis, Sep. 2015 - Jul. 2019.
-* Bachelor in Economics and Management, Université Paris 1 Panthéon-Sorbonne, Sep. 2012 - Jul. 2014.
-* Classes Préparatoires ENS Cachan D2, Lycée Turgot, Sep. 2012 - Jul. 2015.
+* **Ph.D in Statistics**, CREST, Institut Polytechnique de Paris, *Sep. 2019 - May. 2023*
+* **M.Sc Data Science**, National School for Statistics and Information Analysis, *Sep. 2015 - Jul. 2019*
+* **Bachelor in Economics**, Paris 1 Panthéon-Sorbonne University, *Sep. 2012 - Jul. 2014*
+* **Classes Préparatoires ENS Cachan D2**, Lycée Turgot, *Sep. 2012 - Jul. 2015*
 
 
 Publications
 ======
-- Youssfi, Y., and Chopin, N. Scalable Bayesian bi-level variable selection in generalized linear models. *Foundations of Data Science* (2024).
-- Javaudin, F., Canon, V., Heidet, M., Bougouin, W., Youssfi, Y., et al. HIV status and lay bystander cardiopulmonary resuscitation initiation for witnessed cardiac arrest. *Resuscitation* (2024).
-- Binois, Y., Renaudier, M., Dumas, F., Youssfi, Y., et al. Factors associated with circulatory death after out-of-hospital cardiac arrest: a population-based cluster analysis. *Ann Intensive Care* (2023).
-- Anys, C., Billon Mazzella, J. M., Karam, N., Pechmajou, L., Youssfi, Y., et al. Mort subite, en quête d’une explication. *Annales de Cardiologie et d'Angéiologie* (2021).
+- **Youssfi, Y.**, and Chopin, N. Scalable Bayesian bi-level variable selection in generalized linear models. *Foundations of Data Science* (2024).
+- Javaudin, F., Canon, V., Heidet, M., Bougouin, W., **Youssfi, Y.**, et al. HIV status and lay bystander cardiopulmonary resuscitation initiation for witnessed cardiac arrest. *Resuscitation* (2024).
+- Binois, Y., Renaudier, M., Dumas, F., **Youssfi, Y.**, et al. Factors associated with circulatory death after out-of-hospital cardiac arrest: a population-based cluster analysis. *Ann Intensive Care* (2023).
+- Anys, C., Billon Mazzella, J. M., Karam, N., Pechmajou, L., **Youssfi, Y.**, et al. Mort subite, en quête d’une explication. *Annales de Cardiologie et d'Angéiologie* (2021).
 
 
 Work in progress
