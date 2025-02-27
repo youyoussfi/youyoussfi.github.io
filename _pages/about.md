@@ -33,6 +33,8 @@ Work experience
 Education
 ======
 * **Ph.D in Statistics**,  *CREST, Institut Polytechnique de Paris*, 2019 - 2023
+  * supervised by [Nicolas Chopin](https://nchopin.github.io/) and [Pr. Xavier Jouven](https://parcc.inserm.fr/index.php/04-cv-xavier-jouven/).
+  * My manuscript is available here   
 * **M.Sc Data Science**,  *National School for Statistics and Information Analysis*, 2015 - 2019
 * **Bachelor in Economics**,  *Paris 1 Panthéon-Sorbonne University*, 2012 - 2014
 * **Classes Préparatoires aux Grandes Écoles ENS Cachan D2**, *Lycée Turgot*, 2012 - 2015
