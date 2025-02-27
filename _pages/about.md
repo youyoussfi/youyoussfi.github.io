@@ -1,14 +1,11 @@
 ---
 permalink: /
-title: ""
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-Younès Youssfi
-======
 
 # About me
 I am a Data Scientist in the Translational Research Team of Resilience, and affiliated research in the Jacob Wolzfwitz Visiting Assistant Professor at Cornell University.
@@ -20,9 +17,9 @@ My research delves into the foundational aspects of mathematical statistics and 
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Statistics, CREST, Institut Polytechnique de Paris, Sep. 2019 - May. 2023
+* M.Sc Data Science, Ecole Nationale de la Statistique et de l'Analyse de l'Information, Sep. 2015 - Jul. 2019.
+* Classes Préparatoires ENS Cachan D2, Lycée Turgot, Sep. 2012 - Jul. 2015.
 
 Work experience
 ======
