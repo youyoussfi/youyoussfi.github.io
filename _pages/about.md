@@ -27,7 +27,7 @@ Work experience
 
 * **2019-2023: PhD candidate in statistics**
   * *CREST, ENSAE & [Paris Cardiovascular Research Center](https://parcc.inserm.fr/)*
-  * Exploring risk factors and prediction models for sudden cardiac death with machine learning.
+  * *Exploring risk factors and prediction models for sudden cardiac death with machine learning*.
   * Large-scale data processing of the [French National Healthcare Data System](https://www.health-data-hub.fr/snds) (SNDS).
 
 Publications
@@ -36,3 +36,13 @@ Publications
 - Javaudin, F., Canon, V., Heidet, M., Bougouin, W., **Youssfi, Y.**, et al. [HIV status and lay bystander cardiopulmonary resuscitation initiation for witnessed cardiac arrest](https://www.resuscitationjournal.com/article/S0300-9572(24)00162-X/fulltext). *Resuscitation* (2024).
 - Binois, Y., Renaudier, M., Dumas, F., **Youssfi, Y.**, et al. [Factors associated with circulatory death after out-of-hospital cardiac arrest: a population-based cluster analysis](https://annalsofintensivecare.springeropen.com/articles/10.1186/s13613-023-01143-8). *Ann Intensive Care* (2023).
 - Anys, C., Billon Mazzella, J. M., Karam, N., Pechmajou, L., **Youssfi, Y.**, et al. [Mort subite, en quête d’une explication](https://www.em-consulte.com/article/1447689/article/mort-subite-en-quete-d-une-explication). *Annales de Cardiologie et d'Angéiologie* (2021).
+
+Education
+======
+* **Ph.D in Statistics**,  *CREST, Institut Polytechnique de Paris*, 2019 - 2023
+  * *Exploring risk factors and prediction models for sudden cardiac death with machine learning*.
+  * Supervisors: [Nicolas Chopin](https://nchopin.github.io/) and [Pr. Xavier Jouven](https://parcc.inserm.fr/index.php/04-cv-xavier-jouven/).
+  * My manuscript is available [here](https://theses.hal.science/tel-04231416v1/file/122248_YOUSSFI_2023_archivage.pdf).
+* **M.Sc Data Science**,  *National School for Statistics and Information Analysis*, 2015 - 2019
+* **Bachelor in Economics**,  *Paris 1 Panthéon-Sorbonne University*, 2012 - 2014
+* **Classes Préparatoires aux Grandes Écoles ENS Cachan D2**, *Lycée Turgot*, 2012 - 2015
