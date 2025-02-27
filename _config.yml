@@ -25,15 +25,15 @@ author:
   avatar           : "younes_youssfi_photo.jpeg"
   name             : #"Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Email: younes [dot] youssfi [at] ensae [dot] fr"
+  bio              : "**Email**: younes.youssfi@ensae.fr"
   location         : "Paris, France"
-  employer         : "Resilience Care"
+  employer         : #"Resilience Care"
   uri              : # URL
   email            : #"younes.youssfi@ensae.fr" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
