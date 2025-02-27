@@ -23,20 +23,20 @@ Work experience
 * **Since September 2023: Affiliated Researcher**  
   * *Center for Research in Economics and Statistics (CREST, ENSAE)*
   * Leading research projects at the intersection of mathematics and health.
-  * Member of the [Graph4Health](https://guillaume-lecue.faculty.essec.edu/graph4health) ANR Project, lead [Philippe Choné](https://faculty.crest.fr/pchone/)
+  * Member of the [Graph4Health](https://guillaume-lecue.faculty.essec.edu/graph4health) ANR Project, led by [Philippe Choné](https://faculty.crest.fr/pchone/)
 
 * **2019-2023: PhD candidate in statistics**
   * *CREST, ENSAE & [Paris Cardiovascular Research Center](https://parcc.inserm.fr/)*
   * *Exploring risk factors and prediction models for sudden cardiac death with machine learning*.
   * Large-scale data processing of the [French National Healthcare Data System](https://www.health-data-hub.fr/snds) (SNDS).
 
-Work in progress
+Works in progress
 ======
-* Disparties of Chronic Obstructive Pulmonary Disease management in French critical care units (as part of the [Graph4Health](https://guillaume-lecue.faculty.essec.edu/graph4health) Project).
+* *Disparties of Chronic Obstructive Pulmonary Disease management in French critical care units* (as part of the [Graph4Health](https://guillaume-lecue.faculty.essec.edu/graph4health) Project).
     
-* Prediction of causes of death following cardiac arrest in intensive care (with [Dr. Wulfran Bougouin](https://pubmed.ncbi.nlm.nih.gov/?term=Bougouin+W&sort=date), [AfterROSC](https://afterrosc.org/)).
+* *Prediction of causes of death following cardiac arrest in intensive care units* (with [Dr. Wulfran Bougouin](https://pubmed.ncbi.nlm.nih.gov/?term=Bougouin+W&sort=date), [AfterROSC](https://afterrosc.org/)).
 
-* [ODISSÉE Project](https://health-data-hub.fr/projets/odissee): analysis of care pathways and management of status epilepticus (with [Pr. Stéphane Legriel](https://scholar.google.fr/citations?user=3n6afrkAAAAJ&hl=fr), [IctalGroup](https://ictalgroup.org/) and [Salima El kolei](https://sites.google.com/site/selkolei/)).
+* [ODISSÉE Project](https://health-data-hub.fr/projets/odissee): *analysis of care pathways and management of status epilepticus based on the French National Healthcare Data System* (with [Pr. Stéphane Legriel](https://scholar.google.fr/citations?user=3n6afrkAAAAJ&hl=fr), [IctalGroup](https://ictalgroup.org/) and [Salima El kolei](https://sites.google.com/site/selkolei/)).
 
 Publications
 ======
