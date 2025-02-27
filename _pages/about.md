@@ -32,7 +32,7 @@ Work experience
 
 Works in progress
 ======
-* *Disparties of Chronic Obstructive Pulmonary Disease management in French critical care units* (as part of the [Graph4Health](https://guillaume-lecue.faculty.essec.edu/graph4health) Project).
+* *Disparties of chronic pbstructive pulmonary disease management in French critical care units* (as part of the [Graph4Health](https://guillaume-lecue.faculty.essec.edu/graph4health) Project).
     
 * *Prediction of causes of death following cardiac arrest in intensive care units* (with [Dr. Wulfran Bougouin](https://pubmed.ncbi.nlm.nih.gov/?term=Bougouin+W&sort=date), [AfterROSC](https://afterrosc.org/)).
 
