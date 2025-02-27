@@ -15,7 +15,3 @@ My research focuses on developing statistical and machine learning methods for a
 
 Work experience
 ======
-* **Since May 2023: Data Scientist**
-  * *Resilience Care, Translational Research Team*
-  * Real-world evidence studies based on *Patient-Reported Outcomes*.
-  * Data Science in oncology to define a new approach to patient care and personalize the care pathway.
