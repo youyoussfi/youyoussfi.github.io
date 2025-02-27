@@ -29,3 +29,10 @@ Work experience
   * *CREST, ENSAE & [Paris Cardiovascular Research Center](https://parcc.inserm.fr/)*
   * Exploring risk factors and prediction models for sudden cardiac death with machine learning.
   * Large-scale data processing of the [French National Healthcare Data System](https://www.health-data-hub.fr/snds) (SNDS).
+
+Publications
+======
+- **Youssfi, Y.**, and Chopin, N. [Scalable Bayesian bi-level variable selection in generalized linear models](https://www.aimsciences.org/article/doi/10.3934/fods.2024010). *Foundations of Data Science* (2024).
+- Javaudin, F., Canon, V., Heidet, M., Bougouin, W., **Youssfi, Y.**, et al. [HIV status and lay bystander cardiopulmonary resuscitation initiation for witnessed cardiac arrest](https://www.resuscitationjournal.com/article/S0300-9572(24)00162-X/fulltext). *Resuscitation* (2024).
+- Binois, Y., Renaudier, M., Dumas, F., **Youssfi, Y.**, et al. [Factors associated with circulatory death after out-of-hospital cardiac arrest: a population-based cluster analysis](https://annalsofintensivecare.springeropen.com/articles/10.1186/s13613-023-01143-8). *Ann Intensive Care* (2023).
+- Anys, C., Billon Mazzella, J. M., Karam, N., Pechmajou, L., **Youssfi, Y.**, et al. [Mort subite, en quête d’une explication](https://www.em-consulte.com/article/1447689/article/mort-subite-en-quete-d-une-explication). *Annales de Cardiologie et d'Angéiologie* (2021).
