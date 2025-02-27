@@ -28,10 +28,10 @@ Work experience
 
 Education
 ======
-* **Ph.D in Statistics**,  *CREST, Institut Polytechnique de Paris *, Sep. 2019 - May. 2023
-* **M.Sc Data Science**,  *National School for Statistics and Information Analysis*, Sep. 2015 - Jul. 2019
-* **Bachelor in Economics**,  *Paris 1 Panthéon-Sorbonne University*, Sep. 2012 - Jul. 2014
-* **Classes Préparatoires aux Grandes Écoles ENS Cachan D2**, *Lycée Turgot *, *Sep. 2012 - Jul. 2015*
+* **Ph.D in Statistics**,  *CREST, Institut Polytechnique de Paris*, 2019 - 2023
+* **M.Sc Data Science**,  *National School for Statistics and Information Analysis*, 2015 - 2019
+* **Bachelor in Economics**,  *Paris 1 Panthéon-Sorbonne University*, 2012 - 2014
+* **Classes Préparatoires aux Grandes Écoles ENS Cachan D2**, *Lycée Turgot*, 2012 - 2015
 
 
 Publications
@@ -42,7 +42,7 @@ Publications
 - Anys, C., Billon Mazzella, J. M., Karam, N., Pechmajou, L., **Youssfi, Y.**, et al. Mort subite, en quête d’une explication. *Annales de Cardiologie et d'Angéiologie* (2021).
 
 
-Work in progress
+Research projects in progress
 ======
  
 
