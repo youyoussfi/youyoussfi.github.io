@@ -34,7 +34,7 @@ Works in progress
 ======
 * *Disparties of chronic obstructive pulmonary disease management in French critical care units* (with [Dr. Lucie Fanet](https://pubmed.ncbi.nlm.nih.gov/?term=lucie+fanet&sort=date) as part of the [Graph4Health](https://guillaume-lecue.faculty.essec.edu/graph4health) Project).
     
-* *Prediction of causes of death following cardiac arrest in intensive care units* (with [Dr. Wulfran Bougouin](https://pubmed.ncbi.nlm.nih.gov/?term=Bougouin+W&sort=date), [AfterROSC](https://afterrosc.org/)).
+* *Prediction of causes of death following cardiac arrest in intensive care units* (with [Dr. Wulfran Bougouin](https://pubmed.ncbi.nlm.nih.gov/?term=Bougouin+W&sort=date), [AfterROSC Research Network](https://afterrosc.org/)).
 
 * [ODISSÉE Project](https://health-data-hub.fr/projets/odissee): *analysis of care pathways and management of status epilepticus based on the French National Healthcare Data System* (with [Pr. Stéphane Legriel](https://scholar.google.fr/citations?user=3n6afrkAAAAJ&hl=fr), [IctalGroup](https://ictalgroup.org/) and [Salima El Kolei](https://sites.google.com/site/selkolei/)).
 
