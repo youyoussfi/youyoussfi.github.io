@@ -28,10 +28,10 @@ Work experience
 
 Education
 ======
-* **Ph.D in Statistics**, CREST, Institut Polytechnique de Paris, *Sep. 2019 - May. 2023*
-* **M.Sc Data Science**, National School for Statistics and Information Analysis, *Sep. 2015 - Jul. 2019*
-* **Bachelor in Economics**, Paris 1 Panthéon-Sorbonne University, *Sep. 2012 - Jul. 2014*
-* **Classes Préparatoires ENS Cachan D2**, Lycée Turgot, *Sep. 2012 - Jul. 2015*
+* **Ph.D in Statistics**,  *CREST, Institut Polytechnique de Paris *, Sep. 2019 - May. 2023
+* **M.Sc Data Science**,  *National School for Statistics and Information Analysis*, Sep. 2015 - Jul. 2019
+* **Bachelor in Economics**,  *Paris 1 Panthéon-Sorbonne University*, Sep. 2012 - Jul. 2014
+* **Classes Préparatoires aux Grandes Écoles ENS Cachan D2**, *Lycée Turgot *, *Sep. 2012 - Jul. 2015*
 
 
 Publications
