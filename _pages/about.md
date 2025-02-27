@@ -32,15 +32,11 @@ Work experience
 
 Work in progress
 ======
-* Management of Chronic Obstructive Pulmonary Disease in critical care units (as part of the [Graph4Health](https://guillaume-lecue.faculty.essec.edu/graph4health) Project)
-  * Large-scale analysis of data from the French National Healthcare Data System at the national scope.
+* Disparties of Chronic Obstructive Pulmonary Disease management in French critical care units (as part of the [Graph4Health](https://guillaume-lecue.faculty.essec.edu/graph4health) Project)
     
-* Causes of death following cardiac arrest in intensive care (with [Dr. Wulfran Bougouin](https://pubmed.ncbi.nlm.nih.gov/?term=Bougouin+W&sort=date))
-  * [AfterROSC](https://afterrosc.org/) (Cardiac Arrest Research Network).
+* Causes of death following cardiac arrest in intensive care (with [Dr. Wulfran Bougouin](https://pubmed.ncbi.nlm.nih.gov/?term=Bougouin+W&sort=date), [AfterROSC](https://afterrosc.org/) (Cardiac Arrest Research Network)).
 
-* [ODISSÉE Project](https://health-data-hub.fr/projets/odissee): analysis of care pathways and management of status epilepticus  (with [Pr. Stéphane Legriel](https://scholar.google.fr/citations?user=3n6afrkAAAAJ&hl=fr))
-  * [IctalGroup](https://ictalgroup.org/)
-  * Analysis of electronic health records trajectories based on the French National Healthcare Data System.
+* [ODISSÉE Project](https://health-data-hub.fr/projets/odissee): analysis of care pathways and management of status epilepticus (with [Pr. Stéphane Legriel](https://scholar.google.fr/citations?user=3n6afrkAAAAJ&hl=fr), [IctalGroup](https://ictalgroup.org/)).
 
 Publications
 ======
