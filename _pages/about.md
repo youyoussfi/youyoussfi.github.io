@@ -7,22 +7,23 @@ redirect_from:
   - /about.html
 ---
 
-I am a Data Scientist in the *Translational Research Team* of <a href="https://www.resilience.care/">Resilience Care</a>, and an affiliated researcher in statistics at the <a href="https://crest.science/">Center for Research in Economics and Statistics</a> (CREST, ENSAE).
+I am a Data Scientist in the *Translational Research Team* of [Resilience Care](https://www.resilience.care) </a>, and an affiliated researcher in statistics at the [Center for Research in Economics and Statistics](https://crest.science/) (CREST, ENSAE).
 
-I hold a PhD in Statistics from CREST and Institut Polytechnique de Paris, supervised by <a href="https://nchopin.github.io/">Nicolas Chopin</a> and <a href="https://parcc.inserm.fr/index.php/04-cv-xavier-jouven/">Pr. Xavier Jouven</a>.
+I hold a PhD in Statistics from CREST and Institut Polytechnique de Paris, supervised by [Nicolas Chopin](https://nchopin.github.io/) and [Pr. Xavier Jouven](https://parcc.inserm.fr/index.php/04-cv-xavier-jouven/).
 
-My research focuses on developing statistical and machine learning methods for analyzing large-scale healthcare data. I am particularly interested in time series analysis of electronic health records, real-world evidence in epidemiology and Bayesian methods.
+My research focuses on developing statistical and machine learning methods for analyzing large-scale healthcare data. I am particularly interested in time series analysis of electronic health records, real-world evidence in epidemiology Bayesian methods and causal analysis.
 
 Work experience
 ======
 * **Since May 2023: Data Scientist**
   * *Resilience Care, Translational Research Team*
-  * Development of machine learning models in oncology and immunology.
-  * Real-world evidence studies using patient-reported outcomes.
-
-- **Since September 2023: Affiliated Researcher**  
-  *Center for Research in Economics and Statistics(CREST, ENSAE)*  
-  - Research projects at the intersection of mathematics and health.
+  * Real-world evidence studies based on Patient-Reported Outcomes.
+  * Development of machine learning models in oncology to define a new approach to patient care and personalize the care pathway.
+  
+* **Since September 2023: Affiliated Researcher**  
+  * *Center for Research in Economics and Statistics(CREST, ENSAE)*
+  * Leading innovative research projects at the intersection of mathematics and health
+  * Member of the [Graph4Health](https://guillaume-lecue.faculty.essec.edu/graph4health) ANR Project
 
 * **2019-2023: PhD Candidate in Statistics**
   * *CREST, ENSAE & Paris Cardiovascular Research Center (INSERM)*
@@ -38,15 +39,27 @@ Education
 
 Publications
 ======
-- **Youssfi, Y.**, and Chopin, N. Scalable Bayesian bi-level variable selection in generalized linear models. *Foundations of Data Science* (2024).
-- Javaudin, F., Canon, V., Heidet, M., Bougouin, W., **Youssfi, Y.**, et al. HIV status and lay bystander cardiopulmonary resuscitation initiation for witnessed cardiac arrest. *Resuscitation* (2024).
-- Binois, Y., Renaudier, M., Dumas, F., **Youssfi, Y.**, et al. Factors associated with circulatory death after out-of-hospital cardiac arrest: a population-based cluster analysis. *Ann Intensive Care* (2023).
-- Anys, C., Billon Mazzella, J. M., Karam, N., Pechmajou, L., **Youssfi, Y.**, et al. Mort subite, en quête d’une explication. *Annales de Cardiologie et d'Angéiologie* (2021).
+- **Youssfi, Y.**, and Chopin, N. [Scalable Bayesian bi-level variable selection in generalized linear models](https://www.aimsciences.org/article/doi/10.3934/fods.2024010). *Foundations of Data Science* (2024).
+- Javaudin, F., Canon, V., Heidet, M., Bougouin, W., **Youssfi, Y.**, et al. [HIV status and lay bystander cardiopulmonary resuscitation initiation for witnessed cardiac arrest](https://www.resuscitationjournal.com/article/S0300-9572(24)00162-X/fulltext). *Resuscitation* (2024).
+- Binois, Y., Renaudier, M., Dumas, F., **Youssfi, Y.**, et al. [Factors associated with circulatory death after out-of-hospital cardiac arrest: a population-based cluster analysis](https://annalsofintensivecare.springeropen.com/articles/10.1186/s13613-023-01143-8). *Ann Intensive Care* (2023).
+- Anys, C., Billon Mazzella, J. M., Karam, N., Pechmajou, L., **Youssfi, Y.**, et al. [Mort subite, en quête d’une explication](https://www.em-consulte.com/article/1447689/article/mort-subite-en-quete-d-une-explication). *Annales de Cardiologie et d'Angéiologie* (2021).
 
-Research projects in progress
+Work in progress
 ======
+* Management of Chronic Obstructive Pulmonary Disease in critical care units (as part of the [Graph4Health](https://guillaume-lecue.faculty.essec.edu/graph4health) Project)
+  * Large-scale analysis of data from the French National Healthcare Data System at the national scope.
+    
+* Causes of death following cardiac arrest in intensive care (with [Dr. Wulfran Bougouin](https://pubmed.ncbi.nlm.nih.gov/?term=Bougouin+W&sort=date))
+  * [AfterROSC](https://afterrosc.org/) (Cardiac Arrest Research Network).
+
+* [ODISSÉE Project](https://health-data-hub.fr/projets/odissee): analysis of care pathways and management of status epilepticus  (with [Pr. Stéphane Legriel](https://scholar.google.fr/citations?user=3n6afrkAAAAJ&hl=fr))
+  * [IctalGroup](https://ictalgroup.org/)
+  * Analysis of electronic health records trajectories based on the French National Healthcare Data System.
 
 
+### Contact
+======
+Feel free to reach out to me at [younes.youssfi@ensae.fr](mailto:younes.youssfi@ensae.fr) or connect with me on [LinkedIn](https://www.linkedin.com/in/younes-youssfi/). I'd be happy to discuss potential collaborations and research opportunities.
 
 
 
