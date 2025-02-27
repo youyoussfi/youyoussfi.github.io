@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my page ! I am a Data Scientist in the *Translational Research Team* of [Resilience Care](https://www.resilience.care), a digital solution dedicated to remote monitoring and personalized support for oncology patients, and an affiliated researcher in statistics at the [Center for Research in Economics and Statistics](https://crest.science/) (CREST, ENSAE).
+Welcome to my page ! I am a Data Scientist in the *Translational Research Team* of [Resilience Care](https://www.resilience.care), a digital solution dedicated to remote monitoring and personalized support for oncology patients, and an affiliated researcher in statistics at the [Center for Research in Economics and Statistics](https://crest.science/) (CREST, [ENSAE](https://www.ensae.fr/en)).
 
 I hold a PhD in Statistics from CREST and [Polytechnique Institute of Paris](https://www.ip-paris.fr/en), supervised by [Nicolas Chopin](https://nchopin.github.io/) and [Pr. Xavier Jouven](https://parcc.inserm.fr/index.php/04-cv-xavier-jouven/).
 
