@@ -19,14 +19,3 @@ Work experience
   * *Resilience Care, Translational Research Team*
   * Real-world evidence studies based on *Patient-Reported Outcomes*.
   * Data Science in oncology to define a new approach to patient care and personalize the care pathway.
-  
-* **Since September 2023: Affiliated Researcher**  
-  * *Center for Research in Economics and Statistics (CREST, ENSAE)*
-  * Leading innovative research projects at the intersection of mathematics and health
-  * Member of the [Graph4Health](https://guillaume-lecue.faculty.essec.edu/graph4health) ANR Project
-
-* **2019-2023: PhD Candidate in Statistics**
-  * *CREST, ENSAE & Paris Cardiovascular Research Center (INSERM)*
-  * Development of statistical methods for sudden cardiac death prediction.
-  * Large-scale data processing of the French National Healthcare Data System.
-
