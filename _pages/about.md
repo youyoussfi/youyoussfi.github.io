@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a Data Scientist in the Translational Research Team of Resilience Care, and affiliated researcher at the Center for Research in Economics and Statistics (CREST, ENSAE).
+I am a Data Scientist in the Translational Research Team of [Resilience Care](https://www.resilience.care/), and affiliated researcher at the [Center for Research in Economics and Statistics](https://crest.science/) (CREST, ENSAE).
 
-I hold a PhD in Statistics from CREST and Institut Polytechnique de Paris, supervised by Nicolas Chopin and Pr. Xavier Jouven. 
+I hold a PhD in Statistics from CREST and Institut Polytechnique de Paris, supervised by [Nicolas Chopin](https://nchopin.github.io/) and [Pr. Xavier Jouven](https://parcc.inserm.fr/index.php/04-cv-xavier-jouven/). 
 
 My research focuses on developing statistical and machine learning methods for analyzing large-scale healthcare data. I am particularly interested in time series analysis of electronic health records,real-world evidence in epidemiology and Bayesian methods.
 
-<br><br>
+<br>
 
 Work experience
 ======
@@ -31,7 +31,7 @@ Work experience
   * Development of statistical methods for sudden cardiac death prediction.
   * Large-scale data processing of the French National Healthcare Data System.
 
-<br><br>
+<br>
 
 Education
 ======
@@ -40,7 +40,7 @@ Education
 * **Bachelor in Economics**,  *Paris 1 Panthéon-Sorbonne University*, 2012 - 2014
 * **Classes Préparatoires aux Grandes Écoles ENS Cachan D2**, *Lycée Turgot*, 2012 - 2015
 
-<br><br>
+<br>
 
 Publications
 ======
@@ -49,7 +49,7 @@ Publications
 - Binois, Y., Renaudier, M., Dumas, F., **Youssfi, Y.**, et al. Factors associated with circulatory death after out-of-hospital cardiac arrest: a population-based cluster analysis. *Ann Intensive Care* (2023).
 - Anys, C., Billon Mazzella, J. M., Karam, N., Pechmajou, L., **Youssfi, Y.**, et al. Mort subite, en quête d’une explication. *Annales de Cardiologie et d'Angéiologie* (2021).
 
-<br><br>
+<br>
 
 Research projects in progress
 ======
