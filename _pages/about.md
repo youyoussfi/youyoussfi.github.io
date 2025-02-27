@@ -30,6 +30,18 @@ Work experience
   * *Exploring risk factors and prediction models for sudden cardiac death with machine learning*.
   * Large-scale data processing of the [French National Healthcare Data System](https://www.health-data-hub.fr/snds) (SNDS).
 
+Work in progress
+======
+* Management of Chronic Obstructive Pulmonary Disease in critical care units (as part of the [Graph4Health](https://guillaume-lecue.faculty.essec.edu/graph4health) Project)
+  * Large-scale analysis of data from the French National Healthcare Data System at the national scope.
+    
+* Causes of death following cardiac arrest in intensive care (with [Dr. Wulfran Bougouin](https://pubmed.ncbi.nlm.nih.gov/?term=Bougouin+W&sort=date))
+  * [AfterROSC](https://afterrosc.org/) (Cardiac Arrest Research Network).
+
+* [ODISSÉE Project](https://health-data-hub.fr/projets/odissee): analysis of care pathways and management of status epilepticus  (with [Pr. Stéphane Legriel](https://scholar.google.fr/citations?user=3n6afrkAAAAJ&hl=fr))
+  * [IctalGroup](https://ictalgroup.org/)
+  * Analysis of electronic health records trajectories based on the French National Healthcare Data System.
+
 Publications
 ======
 - **Youssfi, Y.**, and Chopin, N. [Scalable Bayesian bi-level variable selection in generalized linear models](https://www.aimsciences.org/article/doi/10.3934/fods.2024010). *Foundations of Data Science* (2024).
@@ -39,7 +51,7 @@ Publications
 
 Education
 ======
-* **Ph.D in Statistics**,  *CREST, Institut Polytechnique de Paris*, 2019 - 2023
+* **Ph.D in Statistics**,  *CREST, ENSAE & Paris Cardiovascular Research Center*, 2019 - 2023
   * [Exploring risk factors and prediction models for sudden cardiac death with machine learning](https://theses.hal.science/tel-04231416v1/file/122248_YOUSSFI_2023_archivage.pdf).
   * Supervisors: [Nicolas Chopin](https://nchopin.github.io/) and [Pr. Xavier Jouven](https://parcc.inserm.fr/index.php/04-cv-xavier-jouven/).
 * **M.Sc Data Science**,  *National School for Statistics and Information Analysis*, 2015 - 2019
