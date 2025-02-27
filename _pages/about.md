@@ -23,7 +23,7 @@ Work experience
 * **Since September 2023: Affiliated Researcher**  
   * *Center for Research in Economics and Statistics (CREST, ENSAE)*
   * Leading research projects at the intersection of mathematics and health.
-  * Member of the [Graph4Health](https://guillaume-lecue.faculty.essec.edu/graph4health) ANR Project.
+  * Member of the [Graph4Health](https://guillaume-lecue.faculty.essec.edu/graph4health) ANR Project, lead [Philippe Choné](https://faculty.crest.fr/pchone/)
 
 * **2019-2023: PhD candidate in statistics**
   * *CREST, ENSAE & [Paris Cardiovascular Research Center](https://parcc.inserm.fr/)*
@@ -32,11 +32,11 @@ Work experience
 
 Work in progress
 ======
-* Disparties of Chronic Obstructive Pulmonary Disease management in French critical care units (as part of the [Graph4Health](https://guillaume-lecue.faculty.essec.edu/graph4health) Project)
+* Disparties of Chronic Obstructive Pulmonary Disease management in French critical care units (as part of the [Graph4Health](https://guillaume-lecue.faculty.essec.edu/graph4health) Project).
     
-* Causes of death following cardiac arrest in intensive care (with [Dr. Wulfran Bougouin](https://pubmed.ncbi.nlm.nih.gov/?term=Bougouin+W&sort=date), [AfterROSC](https://afterrosc.org/) (Cardiac Arrest Research Network)).
+* Prediction of causes of death following cardiac arrest in intensive care (with [Dr. Wulfran Bougouin](https://pubmed.ncbi.nlm.nih.gov/?term=Bougouin+W&sort=date), [AfterROSC](https://afterrosc.org/)).
 
-* [ODISSÉE Project](https://health-data-hub.fr/projets/odissee): analysis of care pathways and management of status epilepticus (with [Pr. Stéphane Legriel](https://scholar.google.fr/citations?user=3n6afrkAAAAJ&hl=fr), [IctalGroup](https://ictalgroup.org/)).
+* [ODISSÉE Project](https://health-data-hub.fr/projets/odissee): analysis of care pathways and management of status epilepticus (with [Pr. Stéphane Legriel](https://scholar.google.fr/citations?user=3n6afrkAAAAJ&hl=fr), [IctalGroup](https://ictalgroup.org/) and [Salima El kolei](https://sites.google.com/site/selkolei/)).
 
 Publications
 ======
@@ -50,7 +50,7 @@ Education
 * **Ph.D in Statistics**,  *CREST, ENSAE & Paris Cardiovascular Research Center*, 2019 - 2023
   * [Exploring risk factors and prediction models for sudden cardiac death with machine learning](https://theses.hal.science/tel-04231416v1/file/122248_YOUSSFI_2023_archivage.pdf).
   * Supervisors: [Nicolas Chopin](https://nchopin.github.io/) and [Pr. Xavier Jouven](https://parcc.inserm.fr/index.php/04-cv-xavier-jouven/).
-* **M.Sc Data Science**,  *National School for Statistics and Information Analysis*, 2015 - 2019
+* **M.Sc Data Science** (with highest honors),  *National School for Statistics and Information Analysis*, 2015 - 2019
 * **Bachelor in Economics**,  *Paris 1 Panthéon-Sorbonne University*, 2012 - 2014
 * **Classes Préparatoires aux Grandes Écoles ENS Cachan D2**, *Lycée Turgot*, 2012 - 2015
 
