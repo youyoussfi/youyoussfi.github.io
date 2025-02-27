@@ -40,9 +40,12 @@ Publications
 Education
 ======
 * **Ph.D in Statistics**,  *CREST, Institut Polytechnique de Paris*, 2019 - 2023
-  * *Exploring risk factors and prediction models for sudden cardiac death with machine learning*.
+  * [Exploring risk factors and prediction models for sudden cardiac death with machine learning](https://theses.hal.science/tel-04231416v1/file/122248_YOUSSFI_2023_archivage.pdf).
   * Supervisors: [Nicolas Chopin](https://nchopin.github.io/) and [Pr. Xavier Jouven](https://parcc.inserm.fr/index.php/04-cv-xavier-jouven/).
-  * My manuscript is available [here](https://theses.hal.science/tel-04231416v1/file/122248_YOUSSFI_2023_archivage.pdf).
 * **M.Sc Data Science**,  *National School for Statistics and Information Analysis*, 2015 - 2019
 * **Bachelor in Economics**,  *Paris 1 Panthéon-Sorbonne University*, 2012 - 2014
 * **Classes Préparatoires aux Grandes Écoles ENS Cachan D2**, *Lycée Turgot*, 2012 - 2015
+
+Contact
+======
+Feel free to reach out to me at [younes.youssfi@ensae.fr](mailto:younes.youssfi@ensae.fr) or connect with me on [LinkedIn](https://www.linkedin.com/in/younes-youssfi/). I'd be happy to discuss potential collaborations and research opportunities.
