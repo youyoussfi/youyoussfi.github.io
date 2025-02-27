@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Data Scientist in the $Translational Research Team$ of [Resilience Care](https://www.resilience.care/), and and affiliated researcher in statistics at the [Center for Research in Economics and Statistics](https://crest.science/) (CREST, ENSAE).
+I am a Data Scientist in the $Translational Research Team$ of <a href="https://www.resilience.care/">Resilience Care</a>, and an affiliated researcher in statistics at the <a href="https://crest.science/">Center for Research in Economics and Statistics</a> (CREST, ENSAE).
 
-I hold a PhD in Statistics from CREST and Institut Polytechnique de Paris, supervised by [Nicolas Chopin](https://nchopin.github.io/) and [Pr. Xavier Jouven](https://parcc.inserm.fr/index.php/04-cv-xavier-jouven/). 
+I hold a PhD in Statistics from CREST and Institut Polytechnique de Paris, supervised by <a href="https://nchopin.github.io/">Nicolas Chopin</a> and <a href="https://parcc.inserm.fr/index.php/04-cv-xavier-jouven/">Pr. Xavier Jouven</a>.
 
-My research focuses on developing statistical and machine learning methods for analyzing large-scale healthcare data. I am particularly interested in time series analysis of electronic health records,real-world evidence in epidemiology and Bayesian methods.
+My research focuses on developing statistical and machine learning methods for analyzing large-scale healthcare data. I am particularly interested in time series analysis of electronic health records, real-world evidence in epidemiology and Bayesian methods.
 
 Work experience
 ======
